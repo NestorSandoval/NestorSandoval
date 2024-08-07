@@ -14,7 +14,7 @@
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 30px></picture> About me
 
-<picture> <img align="right" src="https://thesalesopsguy.files.wordpress.com/2021/11/25qp-1.gif?w=800" width = 200px></picture>
+<picture> <img align="right" src="https://media.tenor.com/3WpDDjIaIuAAAAAM/fabulous-milhousevanhouten.gif" width = 200px></picture>
 
 - :school: I am a `graduate` of the School of Public Accounting and Administration.
 - :technologist: **Currently working on** `Frontend Development`
