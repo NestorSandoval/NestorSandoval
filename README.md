@@ -18,7 +18,6 @@
 
 - :school: I am a `graduate` of the School of Public Accounting and Administration.
 - :technologist: **Currently working on** `Frontend Development`
-- :nerd_face: Always believe `"You are what you loved"`
 
 <br>
 
