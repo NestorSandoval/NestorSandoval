@@ -16,8 +16,8 @@
 
 <picture> <img align="right" src="https://media.tenor.com/3WpDDjIaIuAAAAAM/fabulous-milhousevanhouten.gif" width = 150px></picture>
 
-- :school: I am a `graduate` of the School of Public Accounting and Administration.
-- :technologist: **Currently working on** `Frontend Development`
+- :school: I am a `graduate` of the School of Public Accounting and Administration FACPYA. 
+- :technologist: **I am currently working in** `Frontend Development`.
 
 <br>
 
