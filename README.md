@@ -26,7 +26,7 @@
 ### Programming languages
 [![My Skills](https://skillicons.dev/icons?i=js,ts)](https://skillicons.dev)
 
-### Frontend Development
+### FrontEnd Development
 [![My Skills](https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css,vscode)](https://skillicons.dev)
 
 ### BackEnd Development
