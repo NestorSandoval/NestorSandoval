@@ -35,7 +35,7 @@
 [![My Skills](https://skillicons.dev/icons?i=git,github,figma,photoshop)](https://skillicons.dev)
 
 ### Operating Systems
-[![My Skills](https://skillicons.dev/icons?i=linux)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=linux,windows)](https://skillicons.dev)
 
 
 
