@@ -16,7 +16,7 @@
 <picture> <img align="right" src="https://media.tenor.com/3WpDDjIaIuAAAAAM/fabulous-milhousevanhouten.gif" width = 150px></picture>
 
 - :school: I am a `graduate` of the School of Public Accounting and Administration UANL
-- :technologist: **I am currently working in** `Frontend Development`
+- :technologist: **I am currently working in** `Frontend Development JR`
 
 <br>
 
