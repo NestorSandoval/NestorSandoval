@@ -29,7 +29,7 @@
 [![My Skills](https://skillicons.dev/icons?i=astro,react,nextjs,vue,nuxt,tailwind,html,css,vscode)](https://skillicons.dev)
 
 ### BackEnd Development
-[![My Skills](https://skillicons.dev/icons?i=cs,net,visualstudio)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cs,net,nestjs,visualstudio)](https://skillicons.dev)
 
 ### Software & Tools
 [![My Skills](https://skillicons.dev/icons?i=git,github,figma,photoshop)](https://skillicons.dev)
